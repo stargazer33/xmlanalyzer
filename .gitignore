@@ -1,0 +1,16 @@
+.DS_Store
+*/target/*
+tmp/
+log/
+*iml
+*iws
+.idea
+.idea/*
+dependency-reduced-pom.xml
+*/dependency-reduced-pom.xml
+*~
+*bak
+*tmp
+*swp
+*class
+*txt
